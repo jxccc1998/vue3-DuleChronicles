@@ -1,0 +1,20 @@
+[
+  {
+    "cardId": 1,
+    "cardName": "重击",
+    "type": 1,
+    "rarity": 3,
+    "power": 50,
+    "cost": 10,
+    "description": "造成50伤害"
+  },
+  {
+    "cardId": 2,
+    "cardName": "疾风飞流",
+    "type": 2,
+    "rarity": 0,
+    "power": 60,
+    "cost": 13,
+    "description": "对敌人造成60点伤害"
+  }
+]

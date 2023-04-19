@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "战士",
+    "icon": "warrior.png",
+    "occupation": "战士",
+    "hp": 1000,
+    "mp": 200,
+    "attack": 150,
+    "defense": 120
+  },
+  {
+    "id": 2,
+    "name": "法师",
+    "icon": "magician.png",
+    "occupation": "法师",
+    "hp": 800,
+    "mp": 400,
+    "attack": 100,
+    "defense": 150
+  },
+  {
+    "id": 3,
+    "name": "刺客",
+    "icon": "assassin.png",
+    "occupation": "刺客",
+    "hp": 800,
+    "mp": 200,
+    "attack": 200,
+    "defense": 100
+  },
+  {
+    "id": 4,
+    "name": "猎人",
+    "icon": "hunter.png",
+    "occupation": "猎人",
+    "hp": 1200,
+    "mp": 100,
+    "attack": 120,
+    "defense": 120
+  }
+]
